@@ -1,4 +1,4 @@
-# PredictingEmployeeAttritionintheWorkplaceUsingPredictiveModels
+# PredictingEmployeeAttritionintheWorkplaceUsingPredictiveModel
 🔍 Predicting Employee Attrition Using Machine Learning
 This project explores the use of machine learning models to predict employee attrition, helping organizations proactively address workforce retention challenges. High attrition impacts productivity, morale, and financial performance. By leveraging predictive analytics, this project identifies key factors behind employee turnover and recommends data-driven strategies to reduce it.
 
